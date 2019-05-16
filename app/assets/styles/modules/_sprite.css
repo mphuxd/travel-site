@@ -1,5 +1,7 @@
 /*Do not edit, file is generated automatically by gulp
-Edit gulp/templates/sprite */
+Edit gulp/templates/sprite 
+icons clear view escapes and wifi do not have the correct width and height
+and are editted manually*/
 
 		.icon {
 		background-image: url('/assets/images/sprites/sprite-69f19c2e.svg');
@@ -7,7 +9,7 @@ Edit gulp/templates/sprite */
 
 	.icon--clear-view-escapes {
 		width: 142.4px;
-		height: 59.53px;
+		height: 59px;
 		background-position: 0 0;
 	}
 
@@ -66,7 +68,7 @@ Edit gulp/templates/sprite */
 	}
 
 	.icon--wifi {
-		width: 60px;
+		width: 59px;
 		height: 64px;
 		background-position: 68.79227053140097% 0;
 	}

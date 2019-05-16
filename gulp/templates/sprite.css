@@ -1,5 +1,9 @@
 /*Do not edit, file is generated automatically by gulp
-Edit gulp/templates/sprite */
+Edit gulp/templates/sprite 
+icons clear view escapes and wifi do not have the correct width and height
+and are editted manually
+Changed clear-view-escape height to 59px,
+wifi width to 59px*/
 
 {{#shapes}}
 	{{#first}}
