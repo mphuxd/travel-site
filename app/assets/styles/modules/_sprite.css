@@ -1,16 +1,12 @@
 /*Do not edit, file is generated automatically by gulp
-Edit gulp/templates/sprite 
-icons clear view escapes and wifi do not have the correct width and height
-and are editted manually in modules/_sprite.css
-Changed clear-view-escape height to 59px,
-wifi width to 59px*/
+Edit gulp/templates/sprite */
 
 		.icon {
-		background-image: url('/assets/images/sprites/sprite-e79e95cc.svg');
+		background-image: url('../../assets/images/sprites/sprite-e79e95cc.svg');
 		}
 
 		.no-svg .icon {
-			background-image: url('/assets/images/sprites/sprite-e79e95cc.png');
+			background-image: url('../../assets/images/sprites/sprite-e79e95cc.png');
 		}
 
 	.icon--clear-view-escapes {
