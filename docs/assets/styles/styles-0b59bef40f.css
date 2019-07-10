@@ -450,6 +450,11 @@ template {
   display: none;
 }
 
+body {
+	font-family: 'Roboto', sans-seriff;
+	color: #333;
+}
+
 img {
 	max-width: 100%;
 	height: auto;
@@ -462,10 +467,6 @@ img {
 
 a {
 	color: #d59541;
-}
-
-html {
-	height: 100%;
 }
 
 .wrapper {
