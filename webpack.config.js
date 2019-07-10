@@ -10,9 +10,9 @@ module.exports = {
 		filename: "[name].js"
 	},
 	module: {
-		loaders: [
+		rules: [
 			{
-				loader: 'babel-loader',
+				rules: 'babel-loader',
 				query: {
 					presets: ['es2015']
 				},
